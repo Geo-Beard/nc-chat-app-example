@@ -4,24 +4,26 @@
 
 Be in chat-app, run:
 
-npm install
+    npm install
 
 Make sure everything installed correctly, if not go into:
 
-cd chat-client
+    cd chat-client
 
 Again, run:
 
-npm install
+    npm install
 
 Repeat for chat-server.
 
+## Start up server and client
+
 Start up server:
 
-cd chat-server
-npm start
+    cd chat-server
+    npm start
 
-To start the react app - make a new terminal window then:
+To start the react app client - make a new terminal window then:
 
-cd chat-client
-npm start
+    cd chat-client
+    npm start
